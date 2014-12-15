@@ -1,0 +1,10 @@
+# Linux
+.*
+!.gitignore
+!.htaccess
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/

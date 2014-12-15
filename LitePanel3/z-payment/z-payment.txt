@@ -1,0 +1,1 @@
+'rk_server'  =>  'https://z-payment.com/merchant.php',

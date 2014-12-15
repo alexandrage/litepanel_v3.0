@@ -1,0 +1,5 @@
+58 11 * * * rm -f *token*
+58 23 * * * rm -f *token*
+*/5 * * * * wget http://domain.ru/main/cron/updateSystemLoad?token=TOKEN
+*/4 * * * * wget http://domain.ru/main/cron/updateStats?token=TOKEN
+59 * * * * wget http://domain.ru/main/cron/index?token=TOKEN
